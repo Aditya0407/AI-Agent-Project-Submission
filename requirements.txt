@@ -1,15 +1,16 @@
-numpy==1.26.4
-langchain==0.1.0
-langchain-community==0.0.10
+langchain==0.3.6
+langchain-community==0.2.0
 transformers==4.34.1
-tokenizers>=0.14.1
-torch==2.6.0
+torch==2.1.0
 sounddevice==0.4.6
-scipy==1.14.1
+scipy==1.11.3
 gtts==2.4.0
 playsound==1.2.2
-pygobject==3.44.1
-openai-whisper
+openai-whisper==20231106
+numpy==1.26.4
+async-timeout==4.0.3
+langchain-core==0.3.35
+langsmith==0.1.17
 
 
 
