@@ -21,7 +21,7 @@ Speech Processing: Google Text-to-Speech (gTTS) for voice output, Whisper for sp
 Audio Handling: SoundDevice and SciPy for audio recording and processing
 
 ## Setup and Installation
-Clone the repository:
+Clone the repository: https://github.com/Aditya0407/AI-Agent-Project-Submission.git
 
 bash
 git clone 
